@@ -51,7 +51,6 @@ I love turning ideas into reality using **HTML**, **CSS**, and now diving into *
 | **🌐 Portfolio Website** | ✅ Complete | [devumer.netlify.app](https://devumer.netlify.app) | A personal portfolio with dark & neon theme |
 | **🛒 E-Commerce UI** | ✅ Complete | [dilsebuy.netlify.app](https://dilsebuy.netlify.app) | Frontend of a shopping website (HTML & CSS) |
 | **🧠 JS Quiz Game** | ✅ Complete | [quizzappbyumer.netlify.app](https://quizzappbyumer.netlify.app) | A 26-question interactive quiz in JavaScript |
-| **🧑‍💼 Resume Page** | 🔄 In Progress | Coming Soon | Downloadable Resume with modern UI |
 | **📖 Learning Blog** | 📝 Planning | Coming Soon | A section to share coding & learning journey |
 
 ---
@@ -77,8 +76,8 @@ I love turning ideas into reality using **HTML**, **CSS**, and now diving into *
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Unknownmemon&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Unknownmemon&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Umer-Dev-Code&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Umer-Dev-Code&theme=tokyonight" width="47%" />
 </p>
 
 ---
