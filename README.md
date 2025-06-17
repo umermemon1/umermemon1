@@ -48,7 +48,7 @@ I love turning ideas into reality using **HTML**, **CSS**, and now diving into *
 
 | 🛠️ Project | 📊 Status | 🔗 Link | 📝 Description |
 |-----------|-----------|--------|----------------|
-| **🌐 Portfolio Website** | ✅ Complete | [devumer.netlify.app](https://devumer.netlify.app) | A personal portfolio with dark & neon theme |
+| **🌐 Portfolio Website** | ✅ Complete | [aspect-tech.netlify.app](https://aspect-tech.netlify.app/) | A personal portfolio with dark & neon theme |
 | **🛒 E-Commerce UI** | ✅ Complete | [dilsebuy.netlify.app](https://dilsebuy.netlify.app) | Frontend of a shopping website (HTML & CSS) |
 | **🧠 JS Quiz Game** | ✅ Complete | [quizzappbyumer.netlify.app](https://quizzappbyumer.netlify.app) | A 26-question interactive quiz in JavaScript |
 | **📖 Learning Blog** | 📝 Planning | Coming Soon | A section to share coding & learning journey |
