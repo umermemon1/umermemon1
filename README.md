@@ -61,7 +61,7 @@ I love turning ideas into reality using **HTML**, **CSS**, and now diving into *
 - Dark theme 💼
 - "Download Resume" button
 - Personal info, Skills, Projects, Contact info
-- Will be available at 👉 [devumer.netlify.app/resume](https://devumer.netlify.app/resume) *(when ready)*
+- Will be available at 👉 [aspect-tech.netlify.app](https://aspect-tech.netlify.app/)
 
 ---
 
