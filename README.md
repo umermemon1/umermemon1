@@ -43,8 +43,8 @@ I love turning ideas into reality using **HTML**, **CSS**, and now diving into *
 
 | 🛠️ Project | 📊 Status | 🔗 Link | 📝 Description |
 |-----------|-----------|--------|----------------|
-| **🌐 Portfolio Website** | ✅ Complete | [aspect-tech.netlify.app](https://aspect-tech.netlify.app/) | A personal portfolio with dark & neon theme |
-| **🛒 E-Commerce UI** | ✅ Complete | [dilsebuy.netlify.app](https://dilsebuy.netlify.app) | Frontend of a shopping website (HTML & CSS) |
+| **🌐 Portfolio Website** | ✅ Complete | [umer-memon.netlify.app/](https://umer-memon.netlify.app//) | A personal portfolio with dark & neon theme |
+| **🛒 E-Commerce UI** | ✅ Complete | [dilsebuy.netlify.app](https://dilsebuy.netlify.app/) | Frontend of a shopping website (HTML & CSS) |
 | **🧠 JS Quiz Game** | ✅ Complete | [quizzappbyumer.netlify.app](https://quizzappbyumer.netlify.app) | A 26-question interactive quiz in JavaScript |
 | **📖 Learning Blog** | 📝 Planning | Coming Soon | A section to share coding & learning journey |
 
@@ -56,14 +56,14 @@ I love turning ideas into reality using **HTML**, **CSS**, and now diving into *
 - Dark theme 💼
 - "Download Resume" button
 - Personal info, Skills, Projects, Contact info
-- Will be available at 👉 [aspect-tech.netlify.app](https://aspect-tech.netlify.app/)
+- Will be available at 👉 [umer-memon.netlify.app/](https://umer-memon.netlify.app//)
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Unknownmemon&theme=algolia&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Umer-Dev-Code&theme=algolia&column=4&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -80,9 +80,8 @@ I love turning ideas into reality using **HTML**, **CSS**, and now diving into *
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://instagram.com/devumer"><img src="https://img.shields.io/badge/Instagram-@devumer-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:devumer@gmail.com"><img src="https://img.shields.io/badge/Gmail-devumer@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-Learning%20Journey-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://instagram.com/umer_memon15"><img src="https://img.shields.io/badge/Instagram-@umer-memon15-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:umery101@gmail.com"><img src="https://img.shields.io/badge/Gmail-umery101@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 - 💬 Ask me about ...
