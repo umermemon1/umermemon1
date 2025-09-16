@@ -6,9 +6,9 @@
 
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Umer-Dev-Code&label=Profile+Visitors&color=333333&style=for-the-badge" alt="Visitor Badge"/>
+  <img src="(https://komarev.com/ghpvc/?username=Umer-Dev-Code&label=Profile+Views&color=00FFFF&style=for-the-badge)
+" alt="Visitor Badge"/>
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=Umer-Dev-Code&label=Profile+Views&color=00FFFF&style=for-the-badge)
 
 
 ## 👨‍💻 About Me  
