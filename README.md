@@ -5,10 +5,10 @@
 </p>
 
 
-<!-- 👁️ Visitor Badge -->
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Umer-Dev-Code.Umer-Dev-Code" alt="Visitor Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Umer-Dev-Code&label=Profile+Visitors&color=333333&style=for-the-badge" alt="Visitor Badge"/>
 </p>
+
 
 ## 👨‍💻 About Me  
 
