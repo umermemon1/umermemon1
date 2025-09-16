@@ -1,86 +1,8 @@
 ## Hi there 👋
-<!--This is an excellent idea to tailor your GitHub profile to showcase your skills more effectively. I've updated the README.md content to remove all mentions of cybersecurity and include more details about the MERN stack. I've added a brief description of what MERN stands for and why it's a powerful technology.
 
-Hi there 👋
+<!-- 🎉 Welcome Banner with Typing Style -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum+I'm+Umer+👋;Front-End+Developer+from+Karachi🇵🇰;Loves+Dark+UI+%26+Neon+Themes;Learning+JS+%26+MERN+Stack" alt="Typing SVG" />
-</p>
-
-<p align="right">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Unknownmemon.Unknownmemon" alt="Visitor Badge"/>
-</p>
-
-👨‍💻 About Me
-Hi! I'm Umer, a passionate Front-End Developer from 🇵🇰 Lyari, Karachi.
-I love turning ideas into reality using HTML, CSS, and now diving into JavaScript and the MERN stack. The MERN stack is a powerful set of technologies for building full-stack web applications. It consists of MongoDB (a NoSQL database), Express.js (a backend framework), React (a frontend library), and Node.js (a JavaScript runtime). I am focused on learning how these technologies work together to create dynamic and responsive applications.
-
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Live coding" width="600"/>
-</p>
-
-🧰 My Tech Toolbox
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff"/>
-</p>
-
-🚀 Projects & Goals
-🛠️ Project	📊 Status	🔗 Link	📝 Description
-🌐 Portfolio Website	✅ Complete	umer-memon.netlify.app/	A personal portfolio with dark & neon theme
-🛒 E-Commerce UI	✅ Complete	dilsebuy.netlify.app	Frontend of a shopping website (HTML & CSS)
-🧠 JS Quiz Game	✅ Complete	quizzappbyumer.netlify.app	A 26-question interactive quiz in JavaScript
-📖 Learning Blog	📝 Planning	Coming Soon	A section to share coding & learning journey
-
-Export to Sheets
-🧾 Resume Page Design
-📌 Coming Soon: A clean, one-page resume with these features:
-
-Dark theme 💼
-
-"Download Resume" button
-
-Personal info, Skills, Projects, Contact info
-
-Will be available at 👉 umer-memon.netlify.app/
-
-🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Umer-Dev-Code&theme=algolia&column=4&margin-w=15&margin-h=15" />
-</p>
-
-📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Umer-Dev-Code&show_icons=true&theme=tokyonight" width="47%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Umer-Dev-Code&theme=tokyonight" width="47%" />
-</p>
-
-📬 Let's Connect
-<p align="center">
-<a href="https://instagram.com/umer_memon15"><img src="https://img.shields.io/badge/Instagram-@umer-memon15-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:umery101@gmail.com"><img src="https://img.shields.io/badge/Gmail-umery101@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-💬 Ask me about ...
-
-📫 How to reach me: ...
-
-😄 Pronouns: ...
-
-⚡ Fun fact: ...
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...<!-- 🎉 Welcome Banner with Typing Style -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum+I'm+Umer+👋;Front-End+Developer+from+Karachi🇵🇰;Loves+Dark+UI+%26+Neon+Themes;Learning+JS+%26+Cybersecurity+🛡️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum+I'm+Umer+👋;MERN+Stack+Developer+from+Karachi🇵🇰;Loves+Dark+UI+%26+Neon+Themes;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 <!-- 👁️ Visitor Badge -->
@@ -88,10 +10,12 @@ Will be available at 👉 umer-memon.netlify.app/
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Unknownmemon.Unknownmemon" alt="Visitor Badge"/>
 </p>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
-Hi! I'm **Umer**, a passionate **Front-End Developer** from 🇵🇰 **Lyari, Karachi**.  
-I love turning ideas into reality using **HTML**, **CSS**, and now diving into **JavaScript** and **cybersecurity** 🛡️.
+Hi! I'm **Umer**, a passionate **MERN Stack Developer** from 🇵🇰 **Lyari, Karachi**.  
+I enjoy building modern, responsive, and user-friendly applications.  
+I work with the **MERN stack (MongoDB, Express.js, React, Node.js)** to create full-stack web solutions,  
+and I love experimenting with dark UI & neon themes ✨.  
 
 ---
 
@@ -102,40 +26,44 @@ I love turning ideas into reality using **HTML**, **CSS**, and now diving into *
 
 ---
 
-## 🧰 My Tech Toolbox
+## 🧰 My Tech Toolbox  
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff"/>
 </p>
 
 ---
 
-## 🚀 Projects & Goals
+## 🚀 Projects & Goals  
 
 | 🛠️ Project | 📊 Status | 🔗 Link | 📝 Description |
 |-----------|-----------|--------|----------------|
-| **🌐 Portfolio Website** | ✅ Complete | [umer-memon.netlify.app/](https://umer-memon.netlify.app//) | A personal portfolio with dark & neon theme |
-| **🛒 E-Commerce UI** | ✅ Complete | [dilsebuy.netlify.app](https://dilsebuy.netlify.app/) | Frontend of a shopping website (HTML & CSS) |
+| **🌐 Portfolio Website** | ✅ Complete | [umer-memon.netlify.app](https://umer-memon.netlify.app/) | Personal portfolio with dark & neon theme |
+| **🛒 E-Commerce UI** | ✅ Complete | [dilsebuy.netlify.app](https://dilsebuy.netlify.app/) | Frontend of a shopping website |
 | **🧠 JS Quiz Game** | ✅ Complete | [quizzappbyumer.netlify.app](https://quizzappbyumer.netlify.app) | A 26-question interactive quiz in JavaScript |
-| **📖 Learning Blog** | 📝 Planning | Coming Soon | A section to share coding & learning journey |
+| **📖 Learning Blog** | 📝 Planning | Coming Soon | A space to share coding & learning journey |
 
 ---
 
-## 🧾 Resume Page Design
+## 🧾 Resume Page Design  
 
-📌 **Coming Soon:** A clean, one-page resume with these features:
-- Dark theme 💼
-- "Download Resume" button
-- Personal info, Skills, Projects, Contact info
-- Will be available at 👉 [umer-memon.netlify.app/](https://umer-memon.netlify.app//)
+📌 **Coming Soon:** A clean, one-page resume with these features:  
+- Dark theme 💼  
+- "Download Resume" button  
+- Personal info, Skills, Projects, Contact info  
+- Will be available at 👉 [umer-memon.netlify.app](https://umer-memon.netlify.app/)  
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Umer-Dev-Code&theme=algolia&column=4&margin-w=15&margin-h=15" />
@@ -143,7 +71,7 @@ I love turning ideas into reality using **HTML**, **CSS**, and now diving into *
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Umer-Dev-Code&show_icons=true&theme=tokyonight" width="47%" />
@@ -152,14 +80,9 @@ I love turning ideas into reality using **HTML**, **CSS**, and now diving into *
 
 ---
 
-## 📬 Let's Connect
+## 📬 Let's Connect  
 
 <p align="center">
-  <a href="https://instagram.com/umer_memon15"><img src="https://img.shields.io/badge/Instagram-@umer-memon15-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/umer_memon15"><img src="https://img.shields.io/badge/Instagram-@umer_memon15-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:umery101@gmail.com"><img src="https://img.shields.io/badge/Gmail-umery101@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
