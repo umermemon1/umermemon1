@@ -6,7 +6,7 @@
 
 
 <p align="right">
-  <img src="(https://komarev.com/ghpvc/?username=Umer-Dev-Code&label=Profile+Views&color=00FFFF&style=for-the-badge" alt="Visitor Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Umer-Dev-Code&label=Profile+Views&color=00FFFF&style=for-the-badge" alt="Visitor Badge"/>
 </p>
 
 
