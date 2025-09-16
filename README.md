@@ -6,7 +6,9 @@
 
 
 <!-- 👁️ Visitor Badge -->
-<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Umer-Dev-Code.Umer-Dev-Code" alt="Visitor Badge"/> </p>
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Umer-Dev-Code.Umer-Dev-Code" alt="Visitor Badge"/>
+</p>
 
 ## 👨‍💻 About Me  
 
