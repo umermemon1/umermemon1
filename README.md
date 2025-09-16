@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!-- 🎉 Welcome Banner with Typing Style -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum+I'm+Umer+👋;ERN+Stack+Developer+from+Karachi🇵🇰;Love's+to+Create+Modern+Apps;MERN+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum+I'm+Umer+👋;MMERN+Stack+Developer+from+Karachi🇵🇰;Love's+to+Create+Modern+Apps;MERN+Stack+Developer" alt="Typing SVG" />
 </p>
 
 
