@@ -6,9 +6,7 @@
 </p>
 
 <!-- 👁️ Visitor Badge -->
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Unknownmemon.Unknownmemon" alt="Visitor Badge"/>
-</p>
+<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Unknownmemon.Unknownmemon" alt="Visitor Badge"/> </p>
 
 ## 👨‍💻 About Me  
 
