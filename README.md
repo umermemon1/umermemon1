@@ -1,9 +1,9 @@
 ## Hi there 👋
-
 <!-- 🎉 Welcome Banner with Typing Style -->
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum+I'm+Umer+👋;MERN+STACK+DEVELOPER+from+Karachi🇵🇰;Loves+to+Craete+Moderns+Aap+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum+I'm+Umer+👋;MERN+Stack+Developer+from+Karachi🇵🇰;Love+to+Create+Modern+Apps;Wanna+MERN+Stack+Developer" alt="Typing SVG" />
 </p>
+
 
 <!-- 👁️ Visitor Badge -->
 <p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Unknownmemon.Unknownmemon" alt="Visitor Badge"/> </p>
