@@ -96,8 +96,8 @@ If you'd like, I can add badges, links to my projects for each technology, or sh
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umer-Dev-Code&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umer-Dev-Code&theme=tokyonigh" width="47%" />
+  <img src="![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umer-Dev-Code&hide=contribs,prs)" width="47%" />
+  <img src="[![GitHub Streak](https://streak-stats.demolab.com/Umer-Dev-Code)](https://git.io/streak-stats)" width="47%" />
 </p>
 
 ---
