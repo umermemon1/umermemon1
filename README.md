@@ -63,24 +63,6 @@ If you'd like, I can add badges, links to my projects for each technology, or sh
   <a href="https://www.djangoproject.com/" target="_blank"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></a>
 </p>
 
-### Official Links
-
-- HTML5: https://developer.mozilla.org/en-US/docs/Web/HTML
-- CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
-- JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-- MongoDB: https://www.mongodb.com/
-- ExpressJS: https://expressjs.com/
-- ReactJS: https://react.dev/
-- NodeJS: https://nodejs.org/
-- NextJS: https://nextjs.org/
-- Vercel: https://vercel.com/
-- Netlify: https://www.netlify.com/
-- Git: https://git-scm.com/
-- GitHub: https://github.com/
-- Python: https://www.python.org/
-- Django: https://www.djangoproject.com/
-
-
 ---
 
 ## �🚀 Projects & Goals  
