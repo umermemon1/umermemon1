@@ -26,23 +26,28 @@ and I love experimenting with dark UI & neon themes ✨.
 
 ---
 
-## 🧰 My Tech Toolbox  
+## �️ Languages & Tool Box
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff"/>
-</p>
+Here are the primary languages, frameworks, platforms, and tools I work with:
+
+- **HTML, CSS, JavaScript** — Core web technologies for building front-end interfaces.
+- **MongoDB** — NoSQL database for scalable applications.
+- **ExpressJS** — Minimal and flexible Node.js web application framework.
+- **ReactJS** — Component-based UI library for building interactive user interfaces.
+- **NodeJS** — JavaScript runtime for building fast and scalable backend services.
+- **NextJS** — React framework for server-side rendering and optimized performance.
+- **Vercel** — Deployment and hosting platform, ideal for Next.js apps.
+- **Netlify** — Easy static site hosting and continuous deployment.
+- **Git & GitHub** — Version control and collaboration.
+- **Python** — General-purpose language used for scripting, backend services, and data tasks.
+- **Django** — High-level Python web framework for rapid development.
+
+If you'd like, I can add badges, links to my projects for each technology, or short code snippets showing example usage for any of the above.
+
 
 ---
 
-## 🚀 Projects & Goals  
+## �🚀 Projects & Goals  
 
 | 🛠️ Project | 📊 Status | 🔗 Link | 📝 Description |
 |-----------|-----------|--------|----------------|
