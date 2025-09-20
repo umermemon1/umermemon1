@@ -30,7 +30,6 @@ and I love experimenting with dark UI & neon themes ✨.
 
 Here are the primary languages, frameworks, platforms, and tools I work with:
 
-- **HTML, CSS, JavaScript** — Core web technologies for building front-end interfaces.
 - **MongoDB** — NoSQL database for scalable applications.
 - **ExpressJS** — Minimal and flexible Node.js web application framework.
 - **ReactJS** — Component-based UI library for building interactive user interfaces.
@@ -41,8 +40,45 @@ Here are the primary languages, frameworks, platforms, and tools I work with:
 - **Git & GitHub** — Version control and collaboration.
 - **Python** — General-purpose language used for scripting, backend services, and data tasks.
 - **Django** — High-level Python web framework for rapid development.
+- **HTML, CSS, JavaScript** — Core web technologies for building front-end interfaces.
 
 If you'd like, I can add badges, links to my projects for each technology, or short code snippets showing example usage for any of the above.
+
+### 🧰 Quick Links & Logos
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
+  <a href="https://react.dev/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></a>
+  <a href="https://vercel.com/" target="_blank"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.netlify.com/" target="_blank"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="https://github.com/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></a>
+</p>
+
+### Official Links
+
+- HTML5: https://developer.mozilla.org/en-US/docs/Web/HTML
+- CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
+- JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- MongoDB: https://www.mongodb.com/
+- ExpressJS: https://expressjs.com/
+- ReactJS: https://react.dev/
+- NodeJS: https://nodejs.org/
+- NextJS: https://nextjs.org/
+- Vercel: https://vercel.com/
+- Netlify: https://www.netlify.com/
+- Git: https://git-scm.com/
+- GitHub: https://github.com/
+- Python: https://www.python.org/
+- Django: https://www.djangoproject.com/
 
 
 ---
