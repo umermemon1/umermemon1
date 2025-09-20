@@ -88,12 +88,13 @@ If you'd like, I can add badges, links to my projects for each technology, or sh
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Umer-Dev-Code&theme=algolia&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Umer-Dev-Code&theme=algolia&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 📈 GitHub Stats  
+
+## 📈 GitHub Stats & Streak 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Umer-Dev-Code&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
