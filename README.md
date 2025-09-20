@@ -69,10 +69,9 @@ If you'd like, I can add badges, links to my projects for each technology, or sh
 
 | 🛠️ Project | 📊 Status | 🔗 Link | 📝 Description |
 |-----------|-----------|--------|----------------|
-| **🌐 Portfolio Website** | ✅ Complete | [umer-memon.netlify.app](https://umer-memon.netlify.app/) | Personal portfolio with dark & neon theme |
+| **🌐 Portfolio Website** | ✅ Complete | [umer-memon.netlify.app](https://umer-memon.netlify.app/) | Personal portfolio Reaching Me is More Easy Now |
 | **🛒 E-Commerce UI** | ✅ Complete | [dilsebuy.netlify.app](https://dilsebuy.netlify.app/) | Frontend of a shopping website |
-| **🧠 JS Quiz Game** | ✅ Complete | [quizzappbyumer.netlify.app](https://quizzappbyumer.netlify.app) | A 26-question interactive quiz in JavaScript |
-| **📖 Learning Blog** | 📝 Planning | Coming Soon | A space to share coding & learning journey |
+| **🧠 JS Quiz Game** | ✅ Complete | [quizzappbyumer.netlify.app](https://quizzappbyumer.netlify.app) | 150+ Questions For Students To Learn Basics Of Schools HTML CSS JS |
 
 ---
 
