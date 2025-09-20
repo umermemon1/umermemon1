@@ -97,7 +97,7 @@ If you'd like, I can add badges, links to my projects for each technology, or sh
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Umer-Dev-Code&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Umer-Dev-Code&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umer-Dev-Code&theme=tokyonigh" width="47%" />
 </p>
 
 ---
