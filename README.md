@@ -26,7 +26,7 @@ and I love experimenting with dark UI & neon themes ✨.
 
 ---
 
-## �️ Languages & Tool Box
+## 🧰 Languages & Tool Box
 
 Here are the primary languages, frameworks, platforms, and tools I work with:
 
