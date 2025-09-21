@@ -120,19 +120,14 @@ Always learning, always improving ✨.
 
 ---
 
-## 🐍 Contribution Snake  
+## 📫 Let's Connect  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Umer-Dev-Code/Umer-Dev-Code/output/snake.svg" alt="Snake animation" />
+  <a href="https://www.linkedin.com/in/umer-the-developer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:umery101@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
-
-
----
-
-## 📬 Let's Connect  
-
-<p align="center">
-  <a href="https://instagram.com/umer_memon15"><img src="https://img.shields.io/badge/Instagram-@umer_memon15-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:umery101@gmail.com"><img src="https://img.shields.io/badge/Gmail-umery101@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
