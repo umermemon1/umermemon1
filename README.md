@@ -99,7 +99,7 @@ Always learning, always improving ✨.
 |-----------|-----------|--------|----------------|
 | **🌐 Portfolio Website** | ✅ Complete | [umer-memon.netlify.app](https://umer-memon.netlify.app/) | Personal portfolio showcasing my work |
 | **🛒 E-Commerce UI** | ✅ Complete | [dilsebuy.netlify.app](https://dilsebuy.netlify.app/) | Frontend of a shopping website |
-| **🧠 JS Quiz Game** | ✅ Complete | [quizzappbyumer.netlify.app](https://quizzappbyumer.netlify.app) | 150+ Questions for Students (HTML, CSS, JS) |
+| **🧠 WOO Quiz Game** | ✅ Complete | [quizzappbyumer.netlify.app](https://quizzappbyumer.netlify.app) | 150+ Questions for Students (HTML, CSS, JS) |
 
 ---
 
