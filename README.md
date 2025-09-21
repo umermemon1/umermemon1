@@ -131,7 +131,7 @@ Always learning, always improving ✨.
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umer-the-developer" height="30" width="40" />
 </a>
 <a href="mailto:umery101@gmail.com" target="blank">
-  <img align="center" src="https://img.favpng.com/3/22/3/gmail-logo-png-favpng-tsxigz24sdvtG8ubaj2TAbFv0.jpg" alt="umery101@gmail.com" height="30" width="40" />
+  <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" alt="umery101@gmail.com" height="30" width="40" />
 </a>
 <a href="https://www.facebook.com/umer.memon.974981" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umer.memon.974981" height="30" width="40" />
