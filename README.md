@@ -127,11 +127,10 @@ Always learning, always improving ✨.
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="UMERCODER" height="30" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/umer-the-developer" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umer-the-developer"  height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umer-the-developer" height="30" width="40" />
 </a>
 <a href="mailto:umery101@gmail.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="umery101@gmail.com" height="30" width="40" />
-</a>
+  <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" alt="umery101@gmail.com" height="30" width="40" /></a>
 <a href="https://www.facebook.com/umer.memon.974981" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umer.memon.974981" height="30" width="40" />
 </a>
@@ -139,4 +138,3 @@ Always learning, always improving ✨.
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umer_memon15" height="30" width="40" />
 </a>
 </p>
-
