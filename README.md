@@ -26,6 +26,23 @@ Always learning, always improving ✨.
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Live coding" width="600"/>
 </p>
 
+## 📫 Let's Connect  
+<p align="center" height="100px">
+<a href="https://x.com/UMERCODER" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="UMERCODER" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/umer-the-developer" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umer-the-developer" height="30" width="40" />
+</a>
+<a href="mailto:umery101@gmail.com" target="blank">
+  <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" alt="umery101@gmail.com" height="30" width="40" /></a>
+<a href="https://www.facebook.com/umer.memon.974981" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umer.memon.974981" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/umer_memon15/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umer_memon15" height="30" width="40" />
+</a>
+</p>
 ### 💻 Tech Stack
 
 <br/>
@@ -70,21 +87,3 @@ Always learning, always improving ✨.
 
 ---
 
-## 📫 Let's Connect  
-<h3 align="left">Connect with me:</h3>
-<p align="center" height="100px">
-<a href="https://x.com/UMERCODER" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="UMERCODER" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/umer-the-developer" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umer-the-developer" height="30" width="40" />
-</a>
-<a href="mailto:umery101@gmail.com" target="blank">
-  <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" alt="umery101@gmail.com" height="30" width="40" /></a>
-<a href="https://www.facebook.com/umer.memon.974981" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umer.memon.974981" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/umer_memon15/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umer_memon15" height="30" width="40" />
-</a>
-</p>
