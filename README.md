@@ -26,7 +26,7 @@ Always learning, always improving ✨.
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Live coding" width="600"/>
 </p>
 
-### 💻 Tech Stack:
+### 💻 Tech Stack
 
 <br/>
 
@@ -72,7 +72,7 @@ Always learning, always improving ✨.
 
 ## 📫 Let's Connect  
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center" height="100px">
 <a href="https://x.com/UMERCODER" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="UMERCODER" height="30" width="40" />
 </a>
