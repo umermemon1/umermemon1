@@ -7,16 +7,16 @@
 ---
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Umer-Memon-1&label=Profile+Views&color=00FFFF&style=for-the-badge" alt="Visitor Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=umermemon1&label=Profile+Views&color=00FFFF&style=for-the-badge" alt="Visitor Badge"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
 
-Hi! I'm **Umer**, a passionate **MERN Stack Developer** from 🇵🇰 **Lyari, Karachi**.  
-I enjoy building **modern, responsive, and user-friendly applications**.  
-I work with the **MERN stack (MongoDB, Express.js, React, Node.js)** to create full-stack web solutions 🚀.  
+Hi! I'm *Umer, a passionate **MERN Stack Developer* from 🇵🇰 *Lyari, Karachi*.  
+I enjoy building *modern, responsive, and user-friendly applications*.  
+I work with the *MERN stack (MongoDB, Express.js, React, Node.js)* to create full-stack web solutions 🚀.  
 Always learning, always improving ✨.  
 
 ---
@@ -65,18 +65,18 @@ Always learning, always improving ✨.
 
 ## 🚀 Projects & Goals  
 
-| 🛠️ Project | 📊 Status | 🔗 Link | 📝 Description |
+| 🛠 Project | 📊 Status | 🔗 Link | 📝 Description |
 |-----------|-----------|--------|----------------|
-| **🌐 Portfolio Website** | ✅ Complete | [umer-memon.netlify.app](https://umer-memon.netlify.app/) | Personal portfolio showcasing my work |
-| **🛒 E-Commerce UI** | ✅ Complete | [dilsebuy.netlify.app](https://dilsebuy.netlify.app/) | Frontend of a shopping website |
-| **🧠 WOO Quiz Game** | ✅ Complete | [quizzappbyumer.netlify.app](https://quizzappbyumer.netlify.app) | 150+ Questions for Students (HTML, CSS, JS) |
+| *🌐 Portfolio Website* | ✅ Complete | [umer-memon.netlify.app](https://umer-memon.netlify.app/) | Personal portfolio showcasing my work |
+| *🛒 E-Commerce UI* | ✅ Complete | [dilsebuy.netlify.app](https://dilsebuy.netlify.app/) | Frontend of a shopping website |
+| *🧠 WOO Quiz Game* | ✅ Complete | [quizzappbyumer.netlify.app](https://quizzappbyumer.netlify.app) | 150+ Questions for Students (HTML, CSS, JS) |
 
 ---
 
 ## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Umer-Memon-1&theme=onedark&row=2&column=3" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=umermemon1&theme=onedark&row=2&column=3" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -84,10 +84,10 @@ Always learning, always improving ✨.
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umer-Memon-1&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Umer-Memon-1&theme=onedark&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=umermemon1&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=umermemon1&theme=onedark&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umer-Memon-1&layout=compact&theme=onedark&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umermemon1&layout=compact&theme=onedark&hide_border=true" alt="Top Languages"/>
 </p>
