@@ -1,13 +1,13 @@
 ## Hi there 👋  
 <!-- 🎉 Welcome Banner with Typing Style -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Assalamu+Alaikum+I'm+Umer+👋;MERN+Stack+Developer+from+Karachi+🇵🇰;Love+to+Create+Modern+Apps;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Hey+There+I'm+Umer+👋;MERN+Stack+Developer+🚀;Love+to+Create+Modern+Apps+💻;Always+Learning+%26+Building+✨" alt="Typing SVG" />
 </p>
 
 ---
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Umer-Dev-Code&label=Profile+Views&color=00FFFF&style=for-the-badge" alt="Visitor Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Umer-Memon-1&label=Profile+Views&color=00FFFF&style=for-the-badge" alt="Visitor Badge"/>
 </p>
 
 ---
@@ -26,7 +26,9 @@ Always learning, always improving ✨.
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Live coding" width="600"/>
 </p>
 
-## 📫 Let's Connect  
+---
+
+### 📫 Let's Connect  
 <p align="center" height="100px">
 <a href="https://x.com/UMERCODER" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="UMERCODER" height="30" width="40" />
@@ -43,9 +45,10 @@ Always learning, always improving ✨.
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umer_memon15" height="30" width="40" />
 </a>
 </p>
-### 💻 Tech Stack
 
-<br/>
+---
+
+### 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,nodejs,typescript,aws,docker" /><br/>
@@ -58,7 +61,7 @@ Always learning, always improving ✨.
   <img src="https://skillicons.dev/icons?i=photoshop,netlify,jquery" />
 </p>
 
-<br/>
+---
 
 ## 🚀 Projects & Goals  
 
@@ -73,17 +76,18 @@ Always learning, always improving ✨.
 ## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umer-Dev-Code&show_icons=true&theme=tokyonight&hide_border=true" width="42%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Umer-Dev-Code&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="42%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Umer-Dev-Code&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umer-Dev-Code&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Umer-Memon-1&theme=onedark&row=2&column=3" alt="GitHub Trophies"/>
 </p>
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Umer-Memon-1&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Umer-Memon-1&theme=onedark&hide_border=true" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umer-Memon-1&layout=compact&theme=onedark&hide_border=true" alt="Top Languages"/>
+</p>
