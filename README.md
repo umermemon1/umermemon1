@@ -79,8 +79,9 @@ Always curious, always improving ✨.
 ## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umermemon1&theme=onedark&row=2&column=3" alt="GitHub Trophies"/>
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/102801126-249ab080-43f8-11eb-91c8-f56f94c35777.png">
 </p>
+
 
 ---
 ## 📊 GitHub Stats  
