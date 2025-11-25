@@ -1,6 +1,4 @@
-## Hi there 👋  
-
-<!-- 🎉 Welcome Banner with Typing Style -->
+# Hey There! 👋  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Umer+👋;MERN+Stack+Developer+🚀;Love+to+Build+Modern+Apps+💻;Always+Learning+%26+Improving+✨" alt="Typing SVG" />
 </p>
@@ -17,12 +15,11 @@
 
 Hi! I'm **Umer**, a passionate **MERN Stack Developer** from 🇵🇰 *Lyari, Karachi*.  
 I enjoy building **modern, responsive, and user-friendly applications**.  
-I work with the **MERN stack (MongoDB, Express.js, React, Node.js)** to create scalable full-stack solutions 🚀.  
-Always curious, always improving ✨.  
+My expertise lies in creating scalable full-stack solutions using the **MERN stack (MongoDB, Express.js, React, Node.js)**. 🚀  
+Always curious and committed to improving my skills! ✨
 
 ---
 
-<!-- 🧑‍💻 Live Coding Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Live coding" width="600"/>
 </p>
@@ -31,11 +28,13 @@ Always curious, always improving ✨.
 
 ### 📫 Let's Connect  
 
+I'm always happy to connect! Reach out to me via:
+
 <p align="center">
   <a href="https://x.com/UMERCODER" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/umer-the-developer" target="_blank">
+  <a href="https://www.linkedin.com/in/umer-the-dev" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:umery101@gmail.com" target="_blank">
@@ -53,6 +52,8 @@ Always curious, always improving ✨.
 
 ### 💻 Tech Stack  
 
+I'm skilled in a wide variety of technologies that allow me to build full-stack applications:
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,nodejs,typescript,aws,docker" /><br/>
   <img src="https://skillicons.dev/icons?i=mongodb,expressjs,react,linux,nextjs,flask" /><br/>
@@ -68,11 +69,13 @@ Always curious, always improving ✨.
 
 ## 🚀 Projects & Goals  
 
+Here are some of the exciting projects I've worked on:
+
 | 🛠 Project | 📊 Status | 🔗 Link | 📝 Description |
 |-----------|-----------|--------|----------------|
-| 🌐 **Portfolio Website** | ✅ Complete | [umer-memon.netlify.app](https://umer-memon.netlify.app/) | Personal portfolio showcasing my work |
-| 🛒 **E-Commerce UI** | ✅ Complete | [dilsebuy.netlify.app](https://dilsebuy.netlify.app/) | Frontend of a shopping website |
-| 🧠 **WOO Quiz Game** | ✅ Complete | [quizzappbyumer.netlify.app](https://quizzappbyumer.netlify.app) | 150+ Questions for Students (HTML, CSS, JS) |
+| 🌐 **Portfolio Website** | ✅ Complete | [umer-memon.netlify.app](https://umer-memon.netlify.app/) | My personal portfolio showcasing my work and experience. |
+| 🛒 **E-Commerce UI** | ✅ Complete | [dilsebuy.netlify.app](https://dilsebuy.netlify.app/) | The frontend of a fully functional shopping website. |
+| 🧠 **WOO Quiz Game** | ✅ Complete | [quizzappbyumer.netlify.app](https://quizzappbyumer.netlify.app) | A fun quiz app with 150+ questions for students (HTML, CSS, JS). |
 
 ---
 
@@ -82,13 +85,22 @@ Always curious, always improving ✨.
   <img width="660" src="https://user-images.githubusercontent.com/6661165/102801126-249ab080-43f8-11eb-91c8-f56f94c35777.png">
 </p>
 
-
 ---
+
 ## 📊 GitHub Stats  
 
+Check out my GitHub contributions and achievements!
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umermemon1&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=umermemon1&theme=onedark&hide_border=true" alt="GitHub Streak" height="180"/>
+  <a href="https://github.com/umermemon1">
+    <img src="https://gh-readme-profile.vercel.app/api?username=umermemon1&theme=highcontrast" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=umermemon1&theme=highcontrast" alt="GitHub Streak"/>
+  </a>
 </p>
 
 <p align="center">
